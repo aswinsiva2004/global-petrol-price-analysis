@@ -52,7 +52,13 @@ A Power BI dashboard was created to visualize:
 - Petrol price changes across countries  
 - Percentage increase in fuel prices  
 - Crude oil price trends (Brent & WTI)  
-- Country-level impact analysis  
+- Country-level impact analysis
+
+## 📷 Dashboard Preview
+
+![Dashboard Page 1](dashboard page-1.png)
+
+![Dashboard Page 2](dashboard page-2.png)
 
 The dashboard provides an interactive view of how geopolitical events influenced global energy markets.
 
