@@ -56,9 +56,9 @@ A Power BI dashboard was created to visualize:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Page 1](dashboard page-1.png)
+![Dashboard Page 1](dashboard_page_1.png)
 
-![Dashboard Page 2](dashboard page-2.png)
+![Dashboard Page 2](dashboard_page_2.png)
 
 The dashboard provides an interactive view of how geopolitical events influenced global energy markets.
 
