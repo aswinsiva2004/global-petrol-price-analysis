@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-This project analyzes the impact of the 2026 US-Iran conflict on global petrol prices. Following geopolitical tensions and the closure of the Strait of Hormuz—responsible for nearly 20% of global oil supply—fuel prices increased significantly worldwide.
+This project analyzes the impact of the 2026 US-Iran conflict on global petrol prices. Following geopolitical tensions and the closure of the Strait of Hormuz responsible for nearly 20% of global oil supply fuel prices increased significantly worldwide.
 
 ---
 
